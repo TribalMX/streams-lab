@@ -1,0 +1,16 @@
+{
+  "name": "streams",
+  "version": "0.8.0",
+  "description": "Given a Twitch URL, clip a portion of the live-stream",
+  "main": "streams.js",
+  "dependencies": {
+    "child-process": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Twitch","video","HLS"],
+  "author": "Juan Gonzalez",
+  "license": "ISC"
+}
